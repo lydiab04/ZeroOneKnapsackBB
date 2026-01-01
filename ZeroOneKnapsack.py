@@ -1,3 +1,13 @@
+# Group Members:
+
+# LYDIA YOSEPH             UGR/7809/15
+# MESERET GHEBIRESILASSIE  UGR/0722/15
+# MIKIYAS FASIL            UGR/9231/15
+# SALEM GEBRU              UGR/6916/15
+
+# Section - 2
+
+
 from queue import Queue
 
 class Item:
@@ -95,4 +105,5 @@ if __name__ == '__main__':
     length = len(items)
 
     print ("Maximum possible profit =", knapsack_solution(capacity, items, length))
+
 
