@@ -1,9 +1,14 @@
-Group Members:
-LYDIA YOSEPH             UGR/7809/15
-MESERET GHEBIRESILASSIE  UGR/0722/15
-MIKIYAS FASIL            UGR/9231/15
-SALEM GEBRU              UGR/6916/15
-Section - 2
+    Group Members:
+
+    LYDIA YOSEPH             UGR/7809/15
+
+    MESERET GHEBIRESILASSIE  UGR/0722/15
+
+    MIKIYAS FASIL            UGR/9231/15
+
+    SALEM GEBRU              UGR/6916/15
+
+    Section - 2
 
 Branch and Bound Algorithm – 0/1 Knapsack Problem
 
